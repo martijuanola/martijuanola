@@ -2,13 +2,14 @@
 <table border="0" style="border: none;">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=martijuanola&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true" />
+      <img src="https://github-stats-extended.vercel.app/api?username=martijuanola&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=martijuanola&hide_title=true&langs_count=4" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=martijuanola&hide_title=true&langs_count=4&theme=github_dark" />
     </td>
   </tr>
 </table>
+
 
 
 <!--
