@@ -1,6 +1,5 @@
 <!-- STATS -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martijuanola&show_icons=true)
-
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=martijuanola&show_icons=true)
 
 
 <!--
