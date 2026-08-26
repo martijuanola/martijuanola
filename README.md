@@ -1,5 +1,5 @@
 <!-- STATS -->
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=martijuanola&show_icons=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=martijuanola&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=martijuanola&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=martijuanola&hide_title=true&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=martijuanola&hide_title=true&langs_count=4)
 
 
