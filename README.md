@@ -1,5 +1,5 @@
 <!-- STATS -->
-<table border="0">
+<table border="0" style="border: none;">
   <tr>
     <td align="center" valign="middle">
       <img src="https://github-stats-extended.vercel.app/api?username=martijuanola&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true" />
